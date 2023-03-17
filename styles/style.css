@@ -1,6 +1,10 @@
 * {
-  margin: 0;
-    background: white;
+  padding: 0;
+}
+
+.section-container{
+    position: center;
+    max-width: 1440px;
 
 }
 
@@ -13,20 +17,20 @@
 }
  .line {
      border: none;
-     background: yellow;
+     background: #f5bd41;
      width: 100px;
      height: 4px;
-     margin: 0 670px 0px 670px;
+     margin: 0 auto;
  }
 
-.title {
+.connect-cards {
     margin: 80px 104px 114px 104px;
     display: flex;
     text-align: center;
 
 }
 
-.image {
+.image-connect {
     width: 296px;
     height: 176px;
 
@@ -35,10 +39,9 @@
 
 .text_title {
     display: flex;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 64px;
-    width: fit-content
+    margin: auto;
+    width: fit-content;
+    position: center;
 
 
 
