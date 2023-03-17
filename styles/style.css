@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+    background: white;
+
+}
+
+.text-first {
+    display: inline-block;
+    width: 306px;
+    height: 47px;
+    margin: 120px 567px 20px 567px;
+    text-align: center;
+}
+ .line {
+     border: none;
+     background: yellow;
+     width: 100px;
+     height: 4px;
+     margin: 0 670px 0px 670px;
+ }
+
+.title {
+    margin: 80px 104px 114px 104px;
+    display: flex;
+    text-align: center;
+
+}
+
+.image {
+    width: 296px;
+    height: 176px;
+
+}
+
+
+.text_title {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 64px;
+    width: fit-content
+
+
+
+}
