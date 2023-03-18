@@ -33,7 +33,6 @@
 .image-connect {
     width: 296px;
     height: 176px;
-
 }
 
 
@@ -42,7 +41,8 @@
     margin: auto;
     width: fit-content;
     position: center;
+}
 
-
-
+.cards-img {
+    margin: 100px 100px;
 }
