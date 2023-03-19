@@ -1,0 +1,83 @@
+@import url(fonts.css);
+
+* {
+  padding: 0;
+  font-family: Roboto;
+  font-weight: 400;
+}
+
+.section-container {
+  position: center;
+  max-width: 1440px;
+  height: 625px;
+}
+
+.text-first {
+  display: inline-block;
+  width: 306px;
+  height: 47px;
+  margin: 120px 567px 20px 567px;
+  text-align: center;
+  font-weight: 500;
+  font-size: 40px;
+}
+
+.line {
+  border: none;
+  background: #f5bd41;
+  width: 100px;
+  height: 4px;
+  margin: 0 auto;
+}
+
+.connect-cards {
+  margin: 80px 104px 114px 104px;
+  display: flex;
+  text-align: center;
+}
+
+.image-connect {
+  width: 296px;
+  height: 176px;
+}
+
+.text_title {
+  display: flex;
+  margin: auto;
+  width: fit-content;
+  position: center;
+  font-size: 24px;
+  padding-top: 48px;
+}
+
+.cards-img {
+  margin: 100px 100px;
+}
+
+/*________________________________________________________*/
+
+.footer-container {
+  background: #10367C;
+  display: flex;
+  justify-content: space-evenly;
+  max-width: 1440px;
+  height: 625px;
+  line-height: 24px;
+}
+
+.all-colum {
+  height: 100%;
+  font-size: 20px;
+  margin-top: 120px;
+  color: #FFFFFF;
+}
+
+.top-colum {
+  font-weight: 500;
+  display: block;
+}
+
+.copyright_sign {
+
+  font-size: 14px;
+}
