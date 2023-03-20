@@ -12,7 +12,7 @@
   height: 625px;
 }
 
-.text-first {
+.section-title {
   display: inline-block;
   width: 306px;
   height: 47px;
@@ -56,13 +56,21 @@
 
 /*________________________________________________________*/
 
-.footer-container {
+
+.general-footer {
   background: #10367C;
-  display: flex;
-  justify-content: space-evenly;
   max-width: 1440px;
   height: 625px;
+  align-items: center;
+}
+
+
+.footer-container {
+
   line-height: 24px;
+  display: flex;
+  justify-content: space-between;
+  margin: 0 272px 64px 104px;
 }
 
 .all-colum {
@@ -70,14 +78,18 @@
   font-size: 20px;
   margin-top: 120px;
   color: #FFFFFF;
+
 }
 
 .top-colum {
   font-weight: 500;
   display: block;
+  font-size: 20px;
 }
 
-.copyright_sign {
 
+.copyright_sign {
+  color: #FFFFFF;
+  margin: 0 1082px 120px 105px;
   font-size: 14px;
 }
