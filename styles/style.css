@@ -1,0 +1,48 @@
+* {
+  padding: 0;
+}
+
+.section-container{
+    position: center;
+    max-width: 1440px;
+
+}
+
+.text-first {
+    display: inline-block;
+    width: 306px;
+    height: 47px;
+    margin: 120px 567px 20px 567px;
+    text-align: center;
+}
+ .line {
+     border: none;
+     background: #f5bd41;
+     width: 100px;
+     height: 4px;
+     margin: 0 auto;
+ }
+
+.connect-cards {
+    margin: 80px 104px 114px 104px;
+    display: flex;
+    text-align: center;
+
+}
+
+.image-connect {
+    width: 296px;
+    height: 176px;
+}
+
+
+.text_title {
+    display: flex;
+    margin: auto;
+    width: fit-content;
+    position: center;
+}
+
+.cards-img {
+    margin: 100px 100px;
+}
