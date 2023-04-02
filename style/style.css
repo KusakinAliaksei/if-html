@@ -19,10 +19,10 @@
 }
 
 .section-title {
-  display: inline-block;
+  /*display: inline-block;*/
   width: 306px;
   height: 47px;
-  margin: 120px 567px 20px 567px;
+  margin: 120px auto 20px;
   text-align: center;
   font-weight: 500;
   font-size: 40px;
